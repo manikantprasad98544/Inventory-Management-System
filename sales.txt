@@ -1,0 +1,3 @@
+Transaction Id:96968,Product Name:Kitkat,Product Id:202101,Quantity Purchased:5,Product Price:10,Total Price:50
+Transaction Id:8835,Product Name:5 Star,Product Id:202104,Quantity Purchased:5,Product Price:20,Total Price:100
+Transaction Id:41151,Product Name:Rice Brain,Product Id:202115,Quantity Purchased:4,Product Price:120,Total Price:480
