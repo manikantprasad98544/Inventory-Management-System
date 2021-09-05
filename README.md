@@ -16,7 +16,7 @@ Adding.ipynb
 -------
 
 ### Features
-Adding new item to the inventory.
+Adding new item to the inventory.                                                                                                                                                   
 User can make purchase using product Id.
 record.json files contains all the product present in inventory.
 After each successful purchase inventory gets updated.
