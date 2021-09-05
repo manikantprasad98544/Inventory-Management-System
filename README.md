@@ -1,11 +1,11 @@
 # Inventory-Management-System
 This repositry is all having codes used in Inventory Management System
 
-------
+
 ### About the repository?
 You'll learn JSON,NoSQL Database,File Handling.
 
-------
+
 
 ### Files Include
 record.json                                                                                                                                                                         
@@ -13,7 +13,6 @@ sales.json
 IMS.ipynb                                                                                                                                                                           
 Adding.ipynb
 
--------
 
 ### Features
 1.Adding new item to the inventory.                                                                                                                                                 
@@ -22,7 +21,7 @@ Adding.ipynb
 4.After each successful purchase inventory gets updated.                                                                                                                           
 5.After each successful purchase all transaction details get stored in sales.json.                                                                                                 
 
-### record.json features
+### record.json Features
 1.Product Id                                                                                                                                                                       
 2.Product Name                                                                                                                                                                     
 3.Category                                                                                                                                                                         
@@ -30,5 +29,9 @@ Adding.ipynb
 5.Quantity                                                                                                                                                                         
 6.Expiry Date                                                                                                                                                                     
 
-
-1": {"Product ID": "202101", "Product": "Kitkat", "Quantity Purchased": 10, "Bill": 100}
+### sales.json Features
+1.Transaction ID                                                                                                                                                                   
+2.Product ID                                                                                                                                                                       
+3.Product Name                                                                                                                                                                     
+4.quantity Purchased                                                                                                                                                               
+5.Bill
