@@ -22,4 +22,5 @@ Adding.ipynb
 4.After each successful purchase inventory gets updated.                                                                                                                           
 5.After each successful purchase all transaction details get stored in sales.json.                                                                                                 
 
-###
+### record.json features
+1.
