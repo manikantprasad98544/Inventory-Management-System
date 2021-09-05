@@ -18,8 +18,9 @@ Adding.ipynb
 1.Adding new item to the inventory.                                                                                                                                                 
 2.User can make purchase using product Id.                                                                                                                                         
 3.record.json files contains all the product present in inventory.                                                                                                                 
-4.After each successful purchase inventory gets updated.                                                                                                                           
-5.After each successful purchase all transaction details get stored in sales.json.                                                                                                 
+4.After each successful purchase inventory gets updated.
+5.sales.json files contains all the transaction details.                                                                                                                           
+6.After each successful purchase all transaction details get stored in sales.json.                                                                                                 
 
 ### record.json Features
 1.Product Id                                                                                                                                                                       
@@ -33,5 +34,6 @@ Adding.ipynb
 1.Transaction ID                                                                                                                                                                   
 2.Product ID                                                                                                                                                                       
 3.Product Name                                                                                                                                                                     
-4.quantity Purchased                                                                                                                                                               
+4.Quantity Purchased                                                                                                                                                               
 5.Bill
+
