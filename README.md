@@ -1,5 +1,5 @@
 # Inventory-Management-System
-This repositry is all having codes used in Inventory Management System
+This repository is all having codes used in Inventory Management System
 
 
 ### About the repository?
