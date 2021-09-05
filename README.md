@@ -37,3 +37,5 @@ Adding.ipynb
 4.Quantity Purchased                                                                                                                                                               
 5.Bill
 
+### About Me
+My name is Mani Kant Prasad.I am pursuing Engineering.I have already make a project on face recogination using python and streamlit and deployed it on heroku.You can see my deployed  app using this link-https://opencv-operation.herokuapp.com/ .
