@@ -24,9 +24,11 @@ Adding.ipynb
 
 ### record.json features
 "202101": {"Product": "Kitkat", "Category": "Chocolate", "Price": 10, "Quantity": 120, "Expiry Date": "26Nov2021"}
-1.Product Id                                                                                                                                                                       
+1.Product Id                                                                                                                                                                      
 2.Product Name
 3.Category
 4.Price
 5.Quantity
 6.Expiry Date
+
+1": {"Product ID": "202101", "Product": "Kitkat", "Quantity Purchased": 10, "Bill": 100}
